@@ -1,4 +1,4 @@
-package ChordFinder;
+package chordfinder;
 
 import java.util.ArrayList;
 import java.util.Arrays;
